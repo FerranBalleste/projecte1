@@ -1,2 +1,9 @@
-/db.sqlite3
-/env
+*.pyc
+/env/
+/venv/
+/static/*
+/media/*
+.env
+db.sqlite3
+.coverage
+__pycache__
